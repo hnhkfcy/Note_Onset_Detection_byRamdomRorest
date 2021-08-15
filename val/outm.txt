@@ -1,0 +1,12 @@
+Guitar.mf.sulD.C4Ab4.wav  0.771775 
+Guitar.mf.sulD.D3B3.wav  0.767914 
+Guitar.mf.sulE.C3B3.wav  0.676841 74.2244 
+Guitar.mf.sulE.E2B2.wav  0.022795 74.5224 
+Guitar.mf.sulG.C4B4.wav  0.582346 31.2375 
+Guitar.mf.sulG.C5Db5.wav  0.582927 
+Guitar.mf.sulG.G3B3.wav  0.951011 
+Guitar.pp.sulA.A2B2.wav  1.96912 
+Guitar.pp.sulA.C3B3.wav  0.02597 25.369 69.5961 
+Guitar.pp.sulA.C4E4.wav  0.75806 7.91968 
+Violin.pizz.mf.sulA.A4B4.wav  0.900989 5.07922 9.90799 
+Violin.pizz.mf.sulD.Ab5Db6.wav  0.529374 5.36088 9.81673 14.5534 18.2674 
